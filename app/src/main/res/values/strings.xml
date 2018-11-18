@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">ExemplaryApp</string>
+	<string name="error">Ошибка</string>
+	<string name="go">Перейти</string>
+</resources>
